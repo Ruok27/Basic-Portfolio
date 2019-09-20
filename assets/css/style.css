@@ -1,1 +1,23 @@
+.myname{
+background-color: rgb(74, 170, 165);
+height: 80px;
+width:160px;
+text-align: center;
+font-size: 24px;
+font:bold;
+color: white;
 
+}
+
+
+#mid{
+margin: auto 350px auto;
+
+font-weight: bold;
+
+}
+
+.main{
+
+  background-color: white;
+}
