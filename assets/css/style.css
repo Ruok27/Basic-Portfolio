@@ -1,11 +1,36 @@
+header{
+
+height: 100px;
+background-color: white;
+border-bottom: 1px solid grey;
+width: 100%;
+position: fixed;
+top: 0;
+
+
+
+
+}
+
+
 .myname{
-background-color: rgb(74, 170, 165);
+background-color: #4aaaa5;
 height: 80px;
 width:160px;
 text-align: center;
 font-size: 24px;
 font:bold;
 color: white;
+position: absolute;
+top: 0;
+
+margin: auto 350px auto;
+
+}
+.menu{
+
+  float: right;
+  margin-bottom: 20px;
 
 }
 
@@ -17,7 +42,57 @@ font-weight: bold;
 
 }
 
+h1{
+color: #4aaaa5
+}
+
 .main{
 
+
   background-color: white;
+  color: #777777
+
+float:left;
+}
+
+#mid{
+margin-top: 20px;
+overflow: auto;
+border: 2px grey solid;
+
+
+
+}
+
+
+
+
+#label{
+
+
+position: absolute; top: 10px;
+
+}
+
+
+
+
+
+#bottomLine{
+
+color: #4aaaa5;
+
+}
+
+footer{
+  width: 100%;
+
+border-top: 8px solid #4aaaa5;
+background-color: white;
+text-align:center;
+
+position: fixed;
+bottom: 0;
+
+
 }
